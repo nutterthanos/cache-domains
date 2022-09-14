@@ -41,6 +41,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "gaijin",
+			"description": "CDN for Gaijin Games",
+			"domain_files": ["gaijin.txt"]
+		},
+		{
 			"name": "google",
 			"description": "Chrome and Google Updates",
 			"domain_files": ["google.txt"]
