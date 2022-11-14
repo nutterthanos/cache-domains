@@ -12,3 +12,4 @@ amupdatedl5.microsoft.com
 *.tlu.dl.delivery.mp.microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
+f.c2r.ts.cdn.office.net
